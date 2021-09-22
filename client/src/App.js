@@ -1,5 +1,8 @@
+import React from "react";
+import { Landing } from "./components/Landing/Landing";
+
 function App() {
-  return <div>Twitter clone</div>;
+  return <Landing />;
 }
 
 export default App;
